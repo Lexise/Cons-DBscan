@@ -1,0 +1,198 @@
+Eps: 0.1, min_pts: 5 
+Number of clusters found: 1 
+Number constraints: 0 
+NMI: 1.25 
+F measure: 0.17543859649122806 
+Pairwise F measure: 0.3347582402710434 
+Fowlkes Mallows: 0.5798235780531271 
+Homogeneity, Completeness, vmeasure: (2.537436962108701e-16, 1.0, 5.074873924217401e-16) 
+Number of clusters found: 16 
+Number constraints: 50 
+NMI: 0.03480111408234145 
+F measure: 0.1891183073163023 
+Pairwise F measure: 0.33444681048535213 
+Fowlkes Mallows: 0.5773550367271749 
+Homogeneity, Completeness, vmeasure: (0.006458443595971589, 0.18752467577909487, 0.012486834372741965) 
+Number of clusters found: 24 
+Number constraints: 100 
+NMI: 0.05448394145541312 
+F measure: 0.21045361736593785 
+Pairwise F measure: 0.3332279507608586 
+Fowlkes Mallows: 0.5710546700169209 
+Homogeneity, Completeness, vmeasure: (0.016277418616755673, 0.18236920401255546, 0.029887242352529878) 
+Number of clusters found: 25 
+Number constraints: 150 
+NMI: 0.07114566514793991 
+F measure: 0.22841632086214916 
+Pairwise F measure: 0.3324798560820721 
+Fowlkes Mallows: 0.5667470503895297 
+Homogeneity, Completeness, vmeasure: (0.025160111704577836, 0.20117977729096578, 0.044726589659522635) 
+Number of clusters found: 24 
+Number constraints: 200 
+NMI: 0.08553086300197107 
+F measure: 0.2454445984695095 
+Pairwise F measure: 0.3318551615178391 
+Fowlkes Mallows: 0.5629037119490998 
+Homogeneity, Completeness, vmeasure: (0.03386821088721359, 0.21599985160786297, 0.058555130678264185) 
+Number of clusters found: 22 
+Number constraints: 250 
+NMI: 0.048947367208844475 
+F measure: 0.22950232483805508 
+Pairwise F measure: 0.33096973407497143 
+Fowlkes Mallows: 0.5585256640130372 
+Homogeneity, Completeness, vmeasure: (0.020376986539559022, 0.11757600919185336, 0.0347342186224365) 
+Number of clusters found: 23 
+Number constraints: 300 
+NMI: 0.05541460824529716 
+F measure: 0.2412462993846404 
+Pairwise F measure: 0.3305259589523925 
+Fowlkes Mallows: 0.5553645701553188 
+Homogeneity, Completeness, vmeasure: (0.024579816157729244, 0.12493091027510127, 0.04107770566360456) 
+Number of clusters found: 17 
+Number constraints: 350 
+NMI: 0.05647816432723233 
+F measure: 0.23437258794857455 
+Pairwise F measure: 0.32978895608870834 
+Fowlkes Mallows: 0.5510470379059691 
+Homogeneity, Completeness, vmeasure: (0.02606363514201212, 0.12238442674606924, 0.042975071620385503) 
+Number of clusters found: 22 
+Number constraints: 400 
+NMI: 0.053100211902767924 
+F measure: 0.24502336385435705 
+Pairwise F measure: 0.3287568325807592 
+Fowlkes Mallows: 0.5460250204123963 
+Homogeneity, Completeness, vmeasure: (0.02596338193246112, 0.10860035535638628, 0.041907761495452264) 
+---------------------------------- 
+ 
+Eps: 0.1, min_pts: 10 
+Number of clusters found: 14 
+Number constraints: 0 
+NMI: 0.053727767268181396 
+F measure: 0.24674882573289644 
+Pairwise F measure: 0.32841031157211037 
+Fowlkes Mallows: 0.543945607387145 
+Homogeneity, Completeness, vmeasure: (0.026876380110023614, 0.10740557187414061, 0.04299420633927466) 
+Number of clusters found: 14 
+Number constraints: 50 
+NMI: 0.06085932906960919 
+F measure: 0.2528651813415052 
+Pairwise F measure: 0.32799300382059593 
+Fowlkes Mallows: 0.5410641378191458 
+Homogeneity, Completeness, vmeasure: (0.031515088454703945, 0.11752649655819511, 0.04970234226216021) 
+Number of clusters found: 13 
+Number constraints: 100 
+NMI: 0.06743252896018775 
+F measure: 0.27056440793012587 
+Pairwise F measure: 0.3276192702331166 
+Fowlkes Mallows: 0.5379978080078524 
+Homogeneity, Completeness, vmeasure: (0.03637807038097442, 0.1249968982506752, 0.05635503449541495) 
+Number of clusters found: 10 
+Number constraints: 150 
+NMI: 0.0749549255233301 
+F measure: 0.2704733322403767 
+Pairwise F measure: 0.32689217967915357 
+Fowlkes Mallows: 0.5337238415591913 
+Homogeneity, Completeness, vmeasure: (0.041626774420304685, 0.1349669999284763, 0.06362897991082825) 
+Number of clusters found: 8 
+Number constraints: 200 
+NMI: 0.08006471942946225 
+F measure: 0.2769484936831876 
+Pairwise F measure: 0.3264247318434555 
+Fowlkes Mallows: 0.5306211937265485 
+Homogeneity, Completeness, vmeasure: (0.04559058416698095, 0.14060708838122812, 0.06885541811118807) 
+Number of clusters found: 11 
+Number constraints: 250 
+NMI: 0.08650024161049773 
+F measure: 0.2886864310277614 
+Pairwise F measure: 0.3258548813728365 
+Fowlkes Mallows: 0.5269469961334119 
+Homogeneity, Completeness, vmeasure: (0.05078618578869931, 0.14732927236956248, 0.07553465911476083) 
+Number of clusters found: 12 
+Number constraints: 300 
+NMI: 0.09000604872137051 
+F measure: 0.29592726143215525 
+Pairwise F measure: 0.32551982984790845 
+Fowlkes Mallows: 0.5241049428504161 
+Homogeneity, Completeness, vmeasure: (0.05435409373972379, 0.14904284570038145, 0.07965792237320532) 
+Number of clusters found: 13 
+Number constraints: 350 
+NMI: 0.09526911112452494 
+F measure: 0.3032489917471259 
+Pairwise F measure: 0.3252968787275793 
+Fowlkes Mallows: 0.521838358495743 
+Homogeneity, Completeness, vmeasure: (0.05870716309973121, 0.15460129659201055, 0.08509933030854348) 
+Number of clusters found: 14 
+Number constraints: 400 
+NMI: 0.10148311307937553 
+F measure: 0.31200628208909925 
+Pairwise F measure: 0.3251238787419407 
+Fowlkes Mallows: 0.5195248994081425 
+Homogeneity, Completeness, vmeasure: (0.06413207232438152, 0.160587703890023, 0.09165924258001432) 
+---------------------------------- 
+ 
+Eps: 0.1, min_pts: 15 
+Number of clusters found: 11 
+Number constraints: 0 
+NMI: 0.10350530591996078 
+F measure: 0.3136808458704258 
+Pairwise F measure: 0.32505507223175534 
+Fowlkes Mallows: 0.5178439304178175 
+Homogeneity, Completeness, vmeasure: (0.06618466698589164, 0.16187054859501518, 0.09395398676847108) 
+Number of clusters found: 13 
+Number constraints: 50 
+NMI: 0.11064073718267513 
+F measure: 0.3236757014985417 
+Pairwise F measure: 0.32502697134142877 
+Fowlkes Mallows: 0.5157817181493213 
+Homogeneity, Completeness, vmeasure: (0.07248663186395474, 0.16887765936346438, 0.10143482834245503) 
+Number of clusters found: 13 
+Number constraints: 100 
+NMI: 0.11407676383807112 
+F measure: 0.3245128974766444 
+Pairwise F measure: 0.32513592707535 
+Fowlkes Mallows: 0.5149921573294576 
+Homogeneity, Completeness, vmeasure: (0.07550234157413278, 0.1723589994224166, 0.10500635553285594) 
+Number of clusters found: 10 
+Number constraints: 150 
+NMI: 0.114145885989672 
+F measure: 0.32921844446929543 
+Pairwise F measure: 0.32504427193032487 
+Fowlkes Mallows: 0.5136099933163167 
+Homogeneity, Completeness, vmeasure: (0.07638141853921222, 0.1705818448721046, 0.10551596304966986) 
+Number of clusters found: 8 
+Number constraints: 200 
+NMI: 0.11721346170197919 
+F measure: 0.33027572462492727 
+Pairwise F measure: 0.32529361994640726 
+Fowlkes Mallows: 0.5128645223831283 
+Homogeneity, Completeness, vmeasure: (0.07925880133374028, 0.17334346940612497, 0.10877966824225449) 
+Number of clusters found: 8 
+Number constraints: 250 
+NMI: 0.13301506304693816 
+F measure: 0.37853514047544445 
+Pairwise F measure: 0.3238901278546691 
+Fowlkes Mallows: 0.507011292082406 
+Homogeneity, Completeness, vmeasure: (0.0970191098315055, 0.1823662062876957, 0.12665667074523076) 
+Number of clusters found: 9 
+Number constraints: 300 
+NMI: 0.13697252764901957 
+F measure: 0.38523692512275653 
+Pairwise F measure: 0.32339176902343747 
+Fowlkes Mallows: 0.5035799964212417 
+Homogeneity, Completeness, vmeasure: (0.10207180231385178, 0.18380662342841161, 0.13125490866859624) 
+Number of clusters found: 8 
+Number constraints: 350 
+NMI: 0.14538186958956772 
+F measure: 0.39691176638064557 
+Pairwise F measure: 0.32385476309664313 
+Fowlkes Mallows: 0.5028448388347962 
+Homogeneity, Completeness, vmeasure: (0.11017844878939581, 0.19183323270196842, 0.139967354249259) 
+Number of clusters found: 6 
+Number constraints: 400 
+NMI: 0.16375290955847308 
+F measure: 0.42106033411418703 
+Pairwise F measure: 0.3244200326771623 
+Fowlkes Mallows: 0.5014876925845839 
+Homogeneity, Completeness, vmeasure: (0.12799795946602738, 0.2094956474363373, 0.1589068049909634) 
+---------------------------------- 
+ 
